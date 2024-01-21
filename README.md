@@ -14,3 +14,8 @@ CPU Intel/CascadeLake 32核 64G
 ```
 python gradio_en/test_gradio.py
 ```
+另外需要注意模型要自己在文件夹中放好。模型太大无法上传。
+文件路径按照自己的文件进行设置即可。
+
+效果展示
+<img width="1349" alt="image" src="https://github.com/NaOH678/DocQA-based-on-LangChain-and-BigDL/assets/112929756/e4e4da0c-abdb-43ab-9767-629cfd74c333">
