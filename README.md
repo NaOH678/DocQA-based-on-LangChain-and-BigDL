@@ -9,6 +9,12 @@ CPU Intel/CascadeLake 32核 64G
 
 请根据报告中的方法安装所需的依赖
 
+或者使用environments.yml安装环境
+```
+conda env create -f environment.yml
+conda activate llm-tutorial
+```
+
 执行代码
 
 ```
